@@ -1,6 +1,6 @@
 {
   "name": "deviceProfiler",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Identify a device based on user-agent, patterns learn based on",
   "main": "./lib/deviceProfiler.js",
   "repository": {
@@ -15,8 +15,8 @@
   "homepage": "https://github.com/readme",
   "dependencies": {
     "classifier": "0.1.0",
-    "natural":"0.2.1",
-    "express":"4.13.3",
-    "log4js":"latest"
+    "natural": "0.2.1",
+    "express": "4.13.3",
+    "log4js": "latest"
   }
 }
