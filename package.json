@@ -1,19 +1,26 @@
 {
-  "name": "deviceProfiler",
+  "name": "devicerPofiler",
   "version": "1.1.0",
   "description": "Identify a device based on user-agent, patterns learn based on",
+   "keywords": [
+    "device",
+    "type",
+    "webservice",
+    "mobile,tablet,pc,tv"
+  ],
   "main": "./lib/deviceProfiler.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/micnews/device-type.git"
+    "url": "git+https://github.com/mediascape/deviceProfiler.git"
   },
   "author": "itamayo@vicomtech.org,adomiguez@vicomtech.org,mzorrilla@vicomtech.org",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/issues"
   },
-  "homepage": "https://github.com/readme",
-  "dependencies": {
+
+  "homepage": "https://github.com/mediascape/deviceProfiler/blob/master/readme.md",
+ "dependencies": {
     "classifier": "0.1.0",
     "natural": "0.2.1",
     "express": "4.13.3",
