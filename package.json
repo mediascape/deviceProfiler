@@ -1,0 +1,21 @@
+{
+  "name": "deviceProfiler",
+  "version": "1.0.0",
+  "description": "Identify a device based on user-agent, patterns learn based on",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micnews/device-type.git"
+  },
+  "author": "vic.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/issues"
+  },
+  "homepage": "https://github.com/readme",
+  "dependencies": {
+    "classifier": "0.1.0",
+    "natural":"0.2.1",
+    "express":"4.13.3"
+  }
+}
