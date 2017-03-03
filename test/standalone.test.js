@@ -1,2 +1,2 @@
-var deviceProfiler = require('./server.js');
+var deviceProfiler = require('deviceprofiler');
 deviceProfiler.listen(8080);
