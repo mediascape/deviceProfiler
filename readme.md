@@ -4,7 +4,7 @@ This library is of part of mediascape european project framework. Aims to facili
 
 ```bash
 
-npm install deviceProfiler
+npm install deviceprofiler
 
 ```
 
