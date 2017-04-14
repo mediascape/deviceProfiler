@@ -4,10 +4,10 @@ This library is of part of mediascape european project framework. Aims to facili
 
 ```bash
 
-npm install deviceprofiler
+sudo npm install deviceprofiler
 
 ```
-
+``` It is important to use sudo when is installed ```
 ### Usage
 
 Standalone version:
