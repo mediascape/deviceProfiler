@@ -1,6 +1,6 @@
 {
   "name": "deviceprofiler",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "description": "Identify a device based on user-agent, patterns learn based on",
   "keywords": [
     "device",
