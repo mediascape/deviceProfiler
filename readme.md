@@ -8,6 +8,7 @@ sudo npm install deviceprofiler
 
 ```
 ``` It is important to use sudo when is installed ```
+
 ### Usage
 
 Standalone version:
