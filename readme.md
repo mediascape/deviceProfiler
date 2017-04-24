@@ -7,9 +7,25 @@ This library is of part of mediascape european project framework. Aims to facili
 sudo npm install deviceprofiler
 
 ```
-``` It is important to use sudo when is installed ```
+
+Or for binary execution:
+
+```bash
+
+sudo npm install deviceprofiler -g
+
+```
+
 
 ### Usage
+
+As binary:
+
+```bash
+
+# deviceprofiler
+
+```
 
 Standalone version:
 
