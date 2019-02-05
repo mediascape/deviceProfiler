@@ -29,6 +29,6 @@
     "classifier": "0.1.0",
     "natural": "0.2.1",
     "express": "4.13.3",
-    "log4js": "latest"
+    "log4js": "1.1.1"
   }
 }
