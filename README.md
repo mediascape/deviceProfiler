@@ -7,6 +7,13 @@ This library is of part of mediascape european project framework. Aims to facili
 npm install deviceProfiler
 
 ```
+Binary version:
+
+```bash
+
+sudo npm install deviceProfiler -g
+
+```
 
 ### Usage
 
