@@ -1,6 +1,6 @@
 {
   "name": "deviceprofiler",
-  "version": "1.2.11",
+  "version": "1.2.12",
   "description": "Identify a device based on user-agent, patterns learn based on",
   "keywords": [
     "device",
@@ -14,7 +14,7 @@
     "multidevice"
   ],
   "main": "./lib/deviceProfiler.js",
-  "bin" : "./bin/run.js",
+  "bin": "./bin/run.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mediascape/deviceProfiler.git"
