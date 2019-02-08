@@ -11,7 +11,7 @@ Binary version:
 
 ```bash
 
-sudo npm install deviceProfiler -g
+sudo npm install deviceprofiler -g
 
 ```
 
