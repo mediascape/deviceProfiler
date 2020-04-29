@@ -1,6 +1,6 @@
 {
   "name": "deviceprofiler",
-  "version": "1.2.18",
+  "version": "1.2.17",
   "description": "Identify a device based on user-agent, patterns learn based on",
   "keywords": [
     "device",
@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/mediascape/deviceProfiler/blob/master/readme.md",
   "dependencies": {
+    "classifier": "0.1.0",
     "express": "4.13.3",
     "log4js": "latest",
     "natural": "0.2.1"
