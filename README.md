@@ -7,6 +7,13 @@ This library is of part of mediascape european project framework. Aims to facili
 npm install deviceProfiler
 
 ```
+Binary version:
+
+```bash
+
+sudo npm install deviceprofiler -g
+
+```
 
 ### Usage
 
@@ -26,8 +33,8 @@ Express version:
 var express = require('express');
 var app = express();
 var server = require('http').createServer(app);
-app.listen(3000, function () {
-  console.log('Example app listening on port 3000!')
+app.listen(6675, function () {
+  console.log('Device Profiler API listening on  port 6675!')
 })
 var profilingServer = require('deviceprofiler').listen(app);
 
