@@ -14,7 +14,7 @@
     "multidevice"
   ],
   "main": "./lib/deviceProfiler.js",
-  "bin" : "./bin/run.js",
+  "bin": "./bin/run.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mediascape/deviceProfiler.git"
@@ -27,8 +27,9 @@
   "homepage": "https://github.com/mediascape/deviceProfiler/blob/master/readme.md",
   "dependencies": {
     "classifier": "0.1.0",
-    "natural": "0.2.1",
+    "csv-parse": "^3.1.3",
     "express": "4.13.3",
-    "log4js": "latest"
+    "log4js": "latest",
+    "natural": "0.2.1"
   }
 }
