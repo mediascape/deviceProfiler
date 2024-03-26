@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/mediascape/deviceProfiler/blob/master/readme.md",
   "dependencies": {
-    "express": "4.17.1",
+    "express": "4.19.2",
     "log4js": "latest",
     "natural": "^1.0.4"
   }
